@@ -1,0 +1,10 @@
+C:\Users\t-ziqingsu\source\repos\SQLCETest\SQLCETest\bin\Debug\SQLCETest.exe.config
+C:\Users\t-ziqingsu\source\repos\SQLCETest\SQLCETest\bin\Debug\SQLCETest.exe
+C:\Users\t-ziqingsu\source\repos\SQLCETest\SQLCETest\bin\Debug\SQLCETest.pdb
+C:\Users\t-ziqingsu\source\repos\SQLCETest\SQLCETest\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\t-ziqingsu\source\repos\SQLCETest\SQLCETest\bin\Debug\zh-CHS\System.Data.SqlServerCe.resources.dll
+C:\Users\t-ziqingsu\source\repos\SQLCETest\SQLCETest\obj\Debug\SQLCETest.csprojAssemblyReference.cache
+C:\Users\t-ziqingsu\source\repos\SQLCETest\SQLCETest\obj\Debug\SQLCETest.csproj.CoreCompileInputs.cache
+C:\Users\t-ziqingsu\source\repos\SQLCETest\SQLCETest\obj\Debug\SQLCETest.csproj.CopyComplete
+C:\Users\t-ziqingsu\source\repos\SQLCETest\SQLCETest\obj\Debug\SQLCETest.exe
+C:\Users\t-ziqingsu\source\repos\SQLCETest\SQLCETest\obj\Debug\SQLCETest.pdb

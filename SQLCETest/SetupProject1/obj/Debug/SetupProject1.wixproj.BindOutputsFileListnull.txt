@@ -1,0 +1,3 @@
+C:\Users\t-ziqingsu\source\repos\SQLCETest\SetupProject1\bin\Debug\cab1.cab
+C:\Users\t-ziqingsu\source\repos\SQLCETest\SetupProject1\bin\Debug\SQLCEInstaller.msi
+C:\Users\t-ziqingsu\source\repos\SQLCETest\SetupProject1\bin\Debug\SQLCEInstaller.wixpdb
