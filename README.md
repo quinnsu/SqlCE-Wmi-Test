@@ -83,7 +83,8 @@ result:
 	
 * to what extend support SQL
 [SQL Server Compact 与 SQL Server 之间的差异](https://docs.microsoft.com/zh-cn/previous-versions/sql/compact/sql-server-compact-4.0/bb896140(v=sql.110))
-NOT Support: ORDER BY/Stored Procedure/...
+
+* NOT Support: ORDER BY/Stored Procedure/...
 
 * any other use of WMI ? (get process id / os version /)
 
