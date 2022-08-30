@@ -78,6 +78,7 @@ result:
 
 * SQL CE needs an extra .exe installation package on client's PC.
 * 2.5MB SSCERuntime-ENU.msi 
+* msi package With WiX : 34KB(original test code) -> 2.49MB
 
 ## 4.Feasibility
 	
@@ -93,7 +94,26 @@ result:
 - SQLite
 - TurboSQL
 
+## 6.CPU Usage
 
+**Notice**
+* both use `Resource Monitor` to check the avg CPU usage
+* the whole .exe file includes create database and insert/update/search/delete operation(5000 times each) and a Console output
 
+**SQLCE** : 12%
+
+**WMI** :6.5%
+
+## 7.Memory Usage
+
+**Notice**
+* both use `System.Diagnostics.Process.PeakWorkingSet`
+* the whole .exe file includes create database and insert/update/search/delete operation(5000 times each) and a Console output
+
+**SQLCE** : 69MB
+
+**WMI** :30.2MB
+
+conclusion: The CPU/Memory Usage of Wmi is obviously better than SQLCE.
 
 
